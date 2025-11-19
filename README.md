@@ -84,11 +84,6 @@ We ran K-Means on category-level adherence to uncover user personas.
 - **Power Users**: Use **every** category; low adherence in **exercise**, moderate in **diet** and **supplements**, **high** in **lifestyle**; overall adherence is **~2×** Core Users.  
   Both Core and Power have **>2×** the log entries of Light Users.
 
-**Figures**
-
-<img src="figures/personas.png" width="500" alt="User Cluster Comparison">
-<img src="figures/over_time.png" height="320" alt="Adherence Over Time">
-
 From the time-series sample, adherence appeared **fairly stable** (no strong “start high then fade” pattern). As more data arrives, revisit adherence trends and differences by persona.
 
 ---
